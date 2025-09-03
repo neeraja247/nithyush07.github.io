@@ -42,7 +42,7 @@ A Java program that encrypts and decrypts text using *AES encryption*.
  Contact  
  
 - Email: nithyush07@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/nithyush-reddy-0a1818277?         utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/nithyush-reddy-0a1818277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/Nithyush07
 
 
