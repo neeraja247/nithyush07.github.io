@@ -1,1 +1,36 @@
 
+import re
+
+def check_password_strength(password):
+    strength = 0
+    remarks = ""
+
+    if len(password) < 8:
+        remarks = "Password too short!"
+    else:
+        # +1 if contains lowercase
+        if re.search("[a-z]", password):
+            strength += 1
+        # +1 if contains uppercase
+        if re.search("[A-Z]", password):
+            strength += 1
+        # +1 if contains digits
+        if re.search("[0-9]", password):
+            strength += 1
+        # +1 if contains special chars
+        if re.search("[@#$%^&+=!]", password):
+            strength += 1
+
+        if strength <= 2:
+            remarks = "Weak password"
+        elif strength == 3:
+            remarks = "Moderate password"
+        else:
+            remarks = "Strong password"
+
+    return remarks
+
+
+if __name__ == "__main__":
+    pwd = input("Enter a password to check: ")
+    print(check_password_strength(pwd))
