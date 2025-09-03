@@ -1,23 +1,23 @@
-# 🛡 Cybersecurity Portfolio – [Your Name]
+# 🛡 Cybersecurity Portfolio – YETURU NITHYUSH REDDDY
 
 ## 👨‍💻 About Me  
-Hi, I’m *[Your Name]*, a cybersecurity student passionate about ethical hacking, digital forensics, and secure coding.  
+Hi, I’m YETURU NITHYUSH REDDY, a cybersecurity student passionate about ethical hacking, digital forensics, and secure coding.  
 I have programming experience in *Python* and *Java*, and I’m building tools to strengthen my skills in cybersecurity.  
 
 ---
 
 ## 🔧 Skills  
-- *Programming:* Python, Java  
-- *Cybersecurity Basics:* Networking, Linux, Hashing, Encryption  
-- *Tools:* Wireshark, Nmap, Burp Suite (learning stage)  
-- *Other:* Problem-solving, continuous learning, teamwork  
+- Programming:Python, Java  
+- Cybersecurity Basics: Networking, Linux, Hashing, Encryption  
+  Tools: Wireshark, Nmap, Burp Suite (learning stage)  
+- Other: Problem-solving, continuous learning, teamwork  
 
 ---
 
 ## 📂 Projects  
 
 ### 🔑 [Password Strength Checker (Python)](./projects/password-checker)  
-A Python script that checks if a password is *weak, moderate, or strong* using regex rules.  
+A Python script that checks if a password is weak, moderate, or strong using regex rules.  
 > Skills: Python, Regex, Security basics  
 
 ---
@@ -26,7 +26,7 @@ A Python script that checks if a password is *weak, moderate, or strong* using r
 A lightweight tool that scans common network ports and reports if they are open.  
 > Skills: Python, Networking, Sockets, Cybersecurity fundamentals  
 
----
+
 
 ### 🔒 [Encryption & Decryption Tool (Java)](./projects/encryption-tool)  
 A Java program that encrypts and decrypts text using *AES encryption*.  
@@ -35,16 +35,16 @@ A Java program that encrypts and decrypts text using *AES encryption*.
 ---
 
 ## 🏆 Learning & Practice  
-- Currently solving labs on *TryHackMe* and *OverTheWire*  
+- Currently solving labs on TryHackMe and OverTheWire   
 - Documenting learning with write-ups and notes  
 - Exploring Capture the Flag (CTF) challenges  
 
 ---
 
 ## 📫 Contact  
-- *Email:* [Your Email]  
-- *LinkedIn:* [Your LinkedIn Link]  
-- *GitHub:* [Your GitHub Link]  
+- Email: nithyush07@gmail.com
+- LinkedIn:https://www.linkedin.com/in/nithyush-reddy-0a1818277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+-  GitHub: https://github.com/Nithyush07
 
 ---
 
